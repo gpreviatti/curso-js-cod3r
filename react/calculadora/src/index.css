@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'RobotoMono';
+  src: url('./main/Calculator.css');
+}
+
+* {
+  font-family: 'RobotoMono', 'monospace';
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
